@@ -6,8 +6,6 @@ licenses:
   - MPL-2.0
 platforms:
   - docker
-  - javascript
-  - nodejs
 tags:
   - Analytics
 depends_3rdparty: false
