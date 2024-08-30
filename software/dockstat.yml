@@ -1,0 +1,25 @@
+# software name
+name: "My awesome software"
+# URL of the software project's homepage
+website_url: "https://github.com/its4nik/dockstat"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/its4nik/dockstat"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "This is a Docker monitoring tool with a frontend showing CPU, RAM, and network usage. It supports theme customization, host sorting, and container quick links. Future features include custom tags and alert systems."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - MPL-2.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - docker
+  - javascript
+  - nodejs
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Analytics
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: true
+# (optional) link to an interactive demo of the software
+demo_url: "https://dockstatdemo.hetzner.itsnik.de/"
+# (optional) link to a list of clients/addons/plugins/apps/bots... for the software
+related_software_url: "https://github.com/its4nik/dockstatapi"
